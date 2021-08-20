@@ -14,4 +14,4 @@ Questions for mock interviews and practice are organized by concept and difficul
 -  [Inheritance](https://github.com/revature-curriculum/ts-screen-questions/blob/main/inheritance.md)
 -  [Refactoring](https://github.com/revature-curriculum/ts-screen-questions/blob/main/refactoring.md)
 -  [OOPS Principals](https://github.com/revature-curriculum/ts-screen-questions/blob/main/java-oops.md)
--  [Debugging](https://github.com/revature-curriculum/ts-screen-questions/blob/main/debugging.md
+-  [Debugging](https://github.com/revature-curriculum/ts-screen-questions/blob/main/debugging.md)
